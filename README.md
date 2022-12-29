@@ -1,4 +1,4 @@
-# Elegant_Calculator by Devan
+# Calculator by Devan
 Features - 
 1) Responsive UI.
 2) It can perform all basic operations.
